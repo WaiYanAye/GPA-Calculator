@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;  
 
-//3import java.util.Arrays;
+//import java.util.Arrays;
 
 public class Person 
 {
